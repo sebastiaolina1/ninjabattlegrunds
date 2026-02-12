@@ -1,3 +1,7 @@
+
+ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection. Disable this protection and download the file again. If this happens when you try to run it, click on "more information" and then "run anyway".
+
+
 These are all the game files, including asset scripts, in the perfect format for building in Unity. If you want, you can simply create a profile in Unity and build it as a Windows game.
 
 To view the main scripts, simply go to the assets folder -> scripts and select the script you want to see, remembering that the main player scripts are: player 1 movement and player 2 movement.
