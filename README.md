@@ -1,12 +1,20 @@
 
 **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
-**Press Win + I;
-Go to Privacy and Security;
-Click on Windows Security;
-Go to Virus & threat protection;
-Click on Protection history;
-If the .exe file was removed, it will appear there;
-You can click and choose Restore.**
+
+**Press Win + I;**
+
+**Go to Privacy and Security;**
+
+**Click on Windows Security;**
+
+**Go to Virus & threat protection;**
+
+**Click on Protection history;**
+
+**If the .exe file was removed, it will appear there;**
+
+**You can click and choose Restore.**
+
 **If this happens when you try to run it, click on "more information" and then "run anyway".**
 
 
