@@ -1,6 +1,7 @@
 
 
 # NINJA BATTLE GROUNDS
+A simple ninja game designed to be a base for other games, 2 local players in an arena where they fight for survival.
 
 This is a very basic project made for initial visualization of how to create 3D projects in Unity, entirely developed by me, and it's my first project, both in this language and in Unity.
 
