@@ -11,7 +11,7 @@ As previously mentioned, this is my first game, using this engine and programmin
 The controls are: 'W' to go forward, 'A' to go left, 'S' to go backward, 'D' to go right, use the mouse to move the camera, use 'Q' to dash, press 'F' to defend, use 'space' to jump, and click the left mouse button to punch. The controls for the PlayStation 2 controller are: 'Left analog stick' to walk, 'Right analog stick' to move the camera, 'R1' or 'R2' to dash, 'X' to jump, 'circle' to attack, press 'square' to defend, and click the left analog stick to focus on the enemy.
 
 
-# **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
+## **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
 
 **Press Win + I;**
 
