@@ -18,8 +18,7 @@ The **controls** for the **PlayStation 2** controller are: 'Left analog stick' t
 
 ## how to install
 
-Go to the demo and download it, then find the file, extract it, and then find a file with the Unity logo; its name will be something like "Battle Grounds" and it will be in .exe format. Just double-click on it and the game will open. Or, if you want to modify something, use the files above as a project in the Unity 6000.3.6f1.
-
+Go to the demo and download it, then find the file, extract it, and then find a file with the Unity logo; its name will be something like "Battle Grounds" and it will be in .exe format. Just double-click on it and the game will open. Or, if you prefer to modify something, use the files from this link https://github.com/sebastiaolina1/ninjabattlegrunds as a project in Unity 6000.3.6f1.
 
 ## **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
 
