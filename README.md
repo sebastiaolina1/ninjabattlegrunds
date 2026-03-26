@@ -13,6 +13,8 @@ The **PC** **controls** are: 'W' to go forward, 'A' to go left, 'S' to go backwa
 
 The **controls** for the **PlayStation 2** controller are: 'Left analog stick' to walk, 'Right analog stick' to move the camera, 'R1' or 'R2' to dash, 'X' to jump, 'circle' to attack, press 'square' to defend, and click the left analog stick to focus on the enemy.
 
+#### To exit the game, press 'F11'.
+
 
 
 
