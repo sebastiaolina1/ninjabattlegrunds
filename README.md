@@ -18,8 +18,6 @@ The **controls** for the **PlayStation 2** controller are: 'Left analog stick' t
 
 
 
-## how to install
- use the files from this link https://github.com/sebastiaolina1/ninjabattlegrunds as a project in Unity 6000.3.6f1.
 
 ## **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
 
