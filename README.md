@@ -15,9 +15,8 @@ The **controls** for the **PlayStation 2** controller are: 'Left analog stick' t
 
 #### To exit the game, press 'F11'.
 
-
-
-
+## HOW TO INSTALL:
+To install, go to this link: https://guilhermesantoss.itch.io/ninja-battles, unzip the file, and click on the game; it will be named something like "ninja battle grounds".
 
 ## **ATTENTION: If the "ninja battle grounds .exe" file is not appearing, your Windows is detecting it through system protection.To revert this:**
 
