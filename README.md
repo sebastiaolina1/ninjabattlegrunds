@@ -1,5 +1,5 @@
 # NINJA BATTLE GROUNDS (BETA)
-a game with naruto characters, it's a single player multiplayer game, that is, just log into another computer and play
+I always dreamed of a Naruto game where the only goal was to hit your friends, so I decided to create my own game, where I can make my own abilities, hope you like it (:
 
 This is a very basic project made for initial visualization of how to create 3D projects in Unity, entirely developed by me, and it's my first project, both in this language and in Unity.
 
