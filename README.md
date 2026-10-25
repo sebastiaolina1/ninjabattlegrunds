@@ -1,18 +1,13 @@
-
-
-# NINJA BATTLE GROUNDS
-A simple ninja game designed to be a base for other games, 2 local players in an arena where they fight for survival.
+# NINJA BATTLE GROUNDS (BETA)
+a game with naruto characters, it's a single player multiplayer game, that is, just log into another computer and play
 
 This is a very basic project made for initial visualization of how to create 3D projects in Unity, entirely developed by me, and it's my first project, both in this language and in Unity.
 
 As previously mentioned, this is my first game, using this engine and programming language, and it was truly challenging and stressful to learn something as difficult as 3D so quickly. Therefore, I ask that you take this into consideration, and I hope that many people can use this as a starting point.
 
-## Controls
+##Controls
 
-The **PC** **controls** are: 'W' to go forward, 'A' to go left, 'S' to go backward, 'D' to go right, use the mouse to move the camera, use 'Q' to dash, press 'F' to defend, use 'space' to jump, and click the left mouse button to punch.
-
-The **controls** for the **PlayStation 2** controller are: 'Left analog stick' to walk, 'Right analog stick' to move the camera, 'R1' or 'R2' to dash, 'X' to jump, 'circle' to attack, press 'square' to defend, and click the left analog stick to focus on the enemy.
-
+The **PC** **controls** are: 'W' to go forward, 'A' to go left, 'S' to go backward, 'D' to go right, use the mouse to move the camera, use 'Q' to dash, press 'F' to defend, use 'space' to jump, and click the left mouse button to punch, The '1' key on the keyboard activates the fire-breathing ability, while the '2' key activates the ability to summon a meteor.
 #### To exit the game, press 'F11'.
 
 ## HOW TO INSTALL:
